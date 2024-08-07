@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm S Sri Krishna</h1>
+<h1 align="center">Hey there 👋🏻, I'm Sri Krishna</h1>
 <h3 align="center">Senior Year Scholar @ SRM University | Intern @ Pantech | Ex-GUVI | Ex-DevTown | Web Developer | Data Scientist | AI & ML Enthusiast | Into Exploring the Unexplored Tech Stacks | Technical Event Coordinator and Organizer</h3>
 
-<img src="<img src="https://images.hdqwalls.com/download/ultra-instinct-goku-4k-e3-2560x1440.jpg">
+<img src="https://images.hdqwalls.com/download/ultra-instinct-goku-4k-e3-2560x1440.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
 
