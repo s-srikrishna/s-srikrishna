@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm S Sri Krishna</h1>
 <h3 align="center">Senior Year Scholar @ SRM University | Intern @ Pantech | Ex-GUVI | Ex-DevTown | Web Developer | Data Scientist | AI & ML Enthusiast | Into Exploring the Unexplored Tech Stacks | Technical Event Coordinator and Organizer</h3>
 
+<img src="<img src="https://wallpapers.com/images/hd/1920-x-1080-hd-1qq8r4pnn8cmcew4.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-srikrishna" alt="s-srikrishna" /></a> </p>
