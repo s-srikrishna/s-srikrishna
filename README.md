@@ -1,7 +1,20 @@
-<h1 align="center">Hey there 👋🏻, I'm Sri Krishna</h1>
-<h3 align="center">Senior Year Scholar @ SRM University | Intern @ Pantech | Ex-GUVI | Ex-DevTown | Web Developer | Data Scientist | AI & ML Enthusiast | Into Exploring the Unexplored Tech Stacks | Technical Event Coordinator and Organizer</h3>
+<h1 align="center">Hello folks! This is Sri Krishna 😎</h1>
+
+<h3 align="center">Senior Year Scholar @ SRM University | Intern @ Pantech | Ex-GUVI | Ex-DevTown | Web Developer | Data Scientist | AI & ML Enthusiast | Into Exploring the Unexplored Tech Stacks | Technical Event Coordinator and Organizer</h3><hr />
 
 <img src="https://images.hdqwalls.com/download/ultra-instinct-goku-4k-e3-2560x1440.jpg">
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<p align="center">
+  <a href="https://sri-krishna-portfolio.netlify.app" target="_blank">
+        <p align="center">
+    <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    <a href="http://jrohit.com.np" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
 
