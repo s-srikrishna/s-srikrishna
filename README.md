@@ -1,4 +1,4 @@
-<h1 align="center">Hello folks! This is Sri Krishna 😎</h1>
+<h1 align="center">Hello folks!👋🏻 This is Sri Krishna 👨🏻</h1>
 
 <h3 align="center">Senior Year Scholar @ SRM University | Intern @ Pantech | Ex-GUVI | Ex-DevTown | Web Developer | Data Scientist | AI & ML Enthusiast | Into Exploring the Unexplored Tech Stacks | Technical Event Coordinator and Organizer</h3><hr />
 
