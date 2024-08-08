@@ -16,7 +16,13 @@
         <img src="https://github-widgetbox.vercel.app/api/profile?username=s-srikrishna&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
+<h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20"</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
+
+<h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20"</h3>
+
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-srikrishna" alt="s-srikrishna" /></a> </p>
 
