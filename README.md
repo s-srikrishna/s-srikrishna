@@ -13,7 +13,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="https://sri-krishna-portfolio.netlify.app" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=s-srikrishna&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
