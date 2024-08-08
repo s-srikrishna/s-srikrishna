@@ -61,7 +61,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-srikrishna&" alt="s-srikrishna" /></p>
 
-<h3 align="left">Support:</h3>
-<p align="center><a href="https://www.buymeacoffee.com/s_sri_krishna"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="s_sri_krishna" /></a></p><br><br>
+<h3 align="left">Support:</h3> <p align="center><a href="https://www.buymeacoffee.com/s_sri_krishna"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="s_sri_krishna" /></a></p><br><br>
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
