@@ -26,17 +26,17 @@
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
 
-- 🔭 I’m currently working on **Sophisticated AI**
+🔭 I’m currently working on **Sophisticated AI**
 
-- 🌱 I’m currently learning **Python, TensorFlow, Software Development**
+🌱 I’m currently learning **Python, TensorFlow, Software Development**
 
-- 👨‍💻 All of my projects are available at [https://sri-krishna-portfolio.netlify.app](https://sri-krishna-portfolio.netlify.app)
+👨‍💻 All of my projects are available at [https://sri-krishna-portfolio.netlify.app](https://sri-krishna-portfolio.netlify.app)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/s-sri-krishna](www.linkedin.com/in/s-sri-krishna)
+📝 I regularly write articles on [www.linkedin.com/in/s-sri-krishna](www.linkedin.com/in/s-sri-krishna)
 
-- 📫 How to reach me **s.srikrishna.official@gmail.com**
+📫 How to reach me **s.srikrishna.official@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/4foWSZn](https://bit.ly/4foWSZn)
+📄 Know about my experiences [https://bit.ly/4foWSZn](https://bit.ly/4foWSZn)
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p> 
 
