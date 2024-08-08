@@ -16,8 +16,6 @@
         <img src="https://github-widgetbox.vercel.app/api/profile?username=s-srikrishna&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
-<h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20"</h3><br />
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
 
 <h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20"</h3>
