@@ -57,7 +57,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-srikrishna&show_icons=true&locale=en&layout=compact" alt="s-srikrishna" /></p> <br><br><br><br><br><br><hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-srikrishna&show_icons=true&locale=en" alt="s-srikrishna" /></p> <br><br><hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-srikrishna&show_icons=true&locale=en" alt="s-srikrishna" /></p> <br><hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-srikrishna&" alt="s-srikrishna" /></p>
 
